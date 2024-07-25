@@ -27,6 +27,10 @@ body {
   user-select: none;          /* Standard syntax */
 }
 
+a {
+  color: var(--blue);
+}
+
 /*  */
 #header{
   display: flex;
